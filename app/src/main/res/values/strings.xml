@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Ventana de logeo</string>
+    <string name="Usuario">USUARIO:</string>
+    <string name="Bienvenida">BIENVENIDO A LA APP</string>
+    <string name="Nombre">NOMBRE:</string>
+    <string name="Apellidos">APELLIDOS:</string>
+    <string name="Celular">CELULAR:</string>
+    <string name="Correo">CORREO:</string>
+    <string name="Fecha">FECHA DE NACIMIENTO:</string>
+    <string name="Contraseña">CONTRASEÑA:</string>
+    <string name="Repetir">REPETIR CONTRASEÑA:</string>
+    <string name="Inicia">Iniciar sesión</string>
+    <string name="Limpia">LIMPIAR</string>
+    <string name="Registra">REGISTRAR</string>
+    <string name="Salir">SALIR</string>
+    <string name="Cerrar">Cerrar sesión</string>
+    <string name="Registro">Registrar nuevo usuario</string>
+    <string name="Olvido">¿Ha olvidado su contraseña?</string>
+    <string name="Texto1">Ingrese usuario</string>
+    <string name="Texto2">Ingrese su contraseña</string>
+    <string name="Texto3">Ingrese su nombre</string>
+    <string name="Texto4">Ingrese sus apellidos</string>
+    <string name="Texto5">Ingrese su Nro de celular</string>
+    <string name="Texto6">Ingrese su correo</string>
+    <string name="Texto7">Infrese su fecha de nacimiento</string>
+</resources>
